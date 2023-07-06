@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#D:/GitProjects/Fake Detector/decision_support_system.py</OriginalElement>
+  <nodes>
+    <node x="99.0" y="601.0">decision_support_system.NeuralNetwork</node>
+    <node x="0.0" y="0.0">object</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="decision_support_system.NeuralNetwork" target="object">
+      <point x="0.0" y="-113.5" />
+      <point x="0.0" y="275.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="154.5" y="702.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Fields</Category>
+  </Categories>
+</Diagram>
+

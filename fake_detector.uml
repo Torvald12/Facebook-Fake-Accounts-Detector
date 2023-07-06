@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#D:/GitProjects/Fake Detector/fake_detector.py</OriginalElement>
+  <nodes>
+    <node x="213.0" y="86.0">fake_detector.GUI</node>
+    <node x="1.0" y="172.0">fake_detector.Analyzer</node>
+    <node x="152.75" y="0.0">object</node>
+    <node x="0.0" y="86.0">fake_detector.Scrapper</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="fake_detector.Scrapper" target="object">
+      <point x="0.0" y="-18.0" />
+      <point x="96.5" y="61.0" />
+      <point x="173.5" y="61.0" />
+      <point x="-20.75" y="18.0" />
+    </edge>
+    <edge source="fake_detector.Analyzer" target="fake_detector.Scrapper">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="fake_detector.GUI" target="object">
+      <point x="0.0" y="-18.0" />
+      <point x="292.0" y="61.0" />
+      <point x="215.0" y="61.0" />
+      <point x="20.75" y="18.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="185.5" y="104.0" />
+  <SelectedNodes>
+    <node>fake_detector.Scrapper</node>
+  </SelectedNodes>
+  <Categories />
+</Diagram>
+
